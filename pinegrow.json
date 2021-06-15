@@ -1,1 +1,107 @@
-{"files":{"index.html":{"frameworks":["alpineJs-examples","pg.insight.events","pg.asset.manager","pg.tw.lib","pg.project.items","pg.css.grid","pg.code-validator","pg.image.overlay","tw","pg.html","pg.components"],"last_page_width":1000},"modal_window.html":{"frameworks":["alpineJs-examples","pg.insight.events","pg.asset.manager","pg.tw.lib","pg.project.items","pg.css.grid","pg.code-validator","pg.image.overlay","tw","pg.html","pg.components"],"last_page_width":1024},"images.html":{"frameworks":["alpineJs-examples","pg.insight.events","pg.tw.lib","pg.css.grid","pg.image.overlay","pg.code-validator","pg.project.items","pg.asset.manager","tw","pg.html","pg.components"],"last_page_width":1024},"scrolling.html":{"frameworks":["alpineJs-examples","pg.insight.events","pg.tw.lib","pg.css.grid","pg.image.overlay","pg.code-validator","pg.project.items","pg.asset.manager","tw","pg.html","pg.components"],"last_page_width":1024}},"breakpoints":["640px","768px","1024px","1280px","1536px"],"frameworks":["alpineJs-examples","pg.insight.events","pg.tw.lib","pg.css.grid","pg.image.overlay","pg.code-validator","pg.project.items","pg.asset.manager","tw","pg.html","pg.components"],"urls":{"index.html":{"open-page-views":[{"w":1000,"h":0}]},"modal_window.html":{"open-page-views":[{"w":1024,"h":0}]},"sidedar.html":{"open-page-views":[{"w":1024,"h":0}]},"images.html":{"open-page-views":[{"w":1024,"h":0}]},"scrolling.html":{"open-page-views":[{"w":1024,"h":0}]}},"active-design-provider":"tw"}
+{
+    "files": {
+        "index.html": {
+            "frameworks": [
+                "alpineJs-examples",
+                "pg.insight.events",
+                "pg.asset.manager",
+                "pg.tw.lib",
+                "pg.project.items",
+                "pg.css.grid",
+                "pg.code-validator",
+                "pg.image.overlay",
+                "tw",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1000
+        },
+        "modal_window.html": {
+            "frameworks": [
+                "alpineJs-examples",
+                "pg.insight.events",
+                "pg.asset.manager",
+                "pg.tw.lib",
+                "pg.project.items",
+                "pg.css.grid",
+                "pg.code-validator",
+                "pg.image.overlay",
+                "tw",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1024
+        },
+        "images.html": {
+            "frameworks": [
+                "alpineJs-examples",
+                "pg.insight.events",
+                "pg.tw.lib",
+                "pg.css.grid",
+                "pg.image.overlay",
+                "pg.code-validator",
+                "pg.project.items",
+                "pg.asset.manager",
+                "tw",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1024
+        },
+        "scrolling.html": {
+            "frameworks": [
+                "alpineJs-examples",
+                "pg.insight.events",
+                "pg.tw.lib",
+                "pg.asset.manager",
+                "pg.project.items",
+                "pg.css.grid",
+                "pg.code-validator",
+                "pg.image.overlay",
+                "tw",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1024
+        },
+        "alpinedoc.html": {
+            "frameworks": [
+                "alpineJs-examples",
+                "pg.insight.events",
+                "pg.tw.lib",
+                "pg.css.grid",
+                "pg.image.overlay",
+                "pg.code-validator",
+                "pg.project.items",
+                "pg.asset.manager",
+                "tw",
+                "pg.html",
+                "pg.components"
+            ],
+            "last_page_width": 1024
+        }
+    },
+    "breakpoints": ["640px", "768px", "1024px", "1280px", "1536px"],
+    "frameworks": [
+        "alpineJs-examples",
+        "pg.insight.events",
+        "pg.tw.lib",
+        "pg.css.grid",
+        "pg.image.overlay",
+        "pg.code-validator",
+        "pg.project.items",
+        "pg.asset.manager",
+        "tw",
+        "pg.html",
+        "pg.components"
+    ],
+    "urls": {
+        "index.html": { "open-page-views": [{ "w": 1000, "h": 0 }] },
+        "modal_window.html": { "open-page-views": [{ "w": 1024, "h": 0 }] },
+        "sidedar.html": { "open-page-views": [{ "w": 1024, "h": 0 }] },
+        "images.html": { "open-page-views": [{ "w": 1024, "h": 0 }] },
+        "scrolling.html": { "open-page-views": [{ "w": 640, "h": 0 }] },
+        "alpinedoc.html": { "open-page-views": [{ "w": 1024, "h": 0 }] }
+    },
+    "active-design-provider": "tw"
+}
